@@ -1,6 +1,6 @@
 #### Hello there! :wave:
 
-<p>"Hello there, I'm Danilo, I'm Brazilian. Welcome to my Github, I'm a Computer Information Systems student."
+<p>"Hello there, I'm Danilo, I'm Brazilian. Welcome to my Github, I'm a Information Systems student."
 </p>
 
 
