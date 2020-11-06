@@ -23,6 +23,9 @@
 
 
 <img align="left" alt="NodeJS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
+<img align="left" alt="ReactJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg"/>
+
+
 
 <img align="left" alt="Postgresql" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7nfWS_mXWmuRplaOYJfGkavuuCK48SPGdoQ&usqp=CAU"/>
 <img align="left" alt="Oracle" width="26px" src="https://www.epicentrofestival.com/wp-content/uploads/2020/02/epicentrofestival-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-pefr58n2w6-720x688.jpg"/>
