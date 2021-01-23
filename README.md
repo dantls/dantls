@@ -41,7 +41,7 @@
 
 
 <img align="left" alt="Postgresql" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7nfWS_mXWmuRplaOYJfGkavuuCK48SPGdoQ&usqp=CAU"/>
-<img align="left" alt="Oracle" width="26px" src="https://www.epicentrofestival.com/wp-content/uploads/2020/02/epicentrofestival-oracle-database-oracle-corporation-postgresql-rela-oracle-logo-pefr58n2w6-720x688.jpg"/>
+
 
 
 
