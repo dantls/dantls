@@ -36,11 +36,11 @@
 
 
 <img align="left" alt="NodeJS" width="26px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"/>
-<img align="left" alt="ReactJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/react.svg"/>
+<img align="left" alt="ReactJS" width="26px" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"/>
 
 
 
-<img align="left" alt="Postgresql" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7nfWS_mXWmuRplaOYJfGkavuuCK48SPGdoQ&usqp=CAU"/>
+<img align="left" alt="Postgresql" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7nfWS_mXWmuRplaOYJfGkavuuCK48SPGdoQ&usqp=CAU"/>
 
 
 
